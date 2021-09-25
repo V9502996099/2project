@@ -1,2 +1,3 @@
 # 2project
-python
+## python
+* это мой первый проект *
